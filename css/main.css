@@ -1,0 +1,242 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-size: 19pt;
+    background: #fff;
+}
+
+.run {
+    padding: 75px 0 0 95px;
+}
+
+.menu {
+    padding: 64px 0 0 516px;
+}
+
+.btn {
+    margin:  64px 0 0 516px;
+    background: #093CB5;
+    width: 163px;
+    height: 58px;
+    border-radius: 83px;
+    display: flex;
+    border: 0;
+    color: #fff;
+}
+
+.kvadrat {
+    margin:  17px 8px 0 26px;
+}
+
+.Kvadrat2 {
+    margin: 13px 26px 0 0;
+    font-size: 19pt;
+}
+
+.header_logo {
+    display: flex;
+}
+
+.buy {
+    margin: 75px 0 0 844px;
+}
+
+.lupa {
+    margin: 75px 96px 0 18px;
+}
+
+.zagalovok {
+    width: 550px;
+    font-size: 96pt;
+    letter-spacing: -3%;
+    margin: 160px 0 0 95px;
+}
+
+.o_nas {
+    width: 650px;
+    margin: 44px 0 0 95px;
+    font-size: 19pt;
+    line-height: 1.4em;
+    color: rgba(0, 0, 0, 0.658);
+}
+
+.btn2 {
+    width: 315px;
+    height: 96px;
+    background: #093CB5;
+    border: 0;
+    color: #fff;
+    border-radius: 83px;
+    font-size: 19pt;
+    margin: 96px 0 0 95px;
+}
+
+.phone {
+    margin: 131px 0 0 58px;
+    width: 30px;
+    height: 30px;
+}
+
+.text_phone {
+    color: #093CB5;
+    margin: 129px 0 0 8px;
+}
+
+.number {
+    display: flex;
+}
+
+.knopki {
+    display: flex;
+}
+
+.skuter {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+}
+
+.l {
+    z-index: 1;
+}
+
+.red {
+    margin: 11px 0 0 0;
+    border-radius: 32px;
+}
+.u {
+    width: 360px;
+    height: 108px;
+    background: rgb(255, 255, 255);
+    color: #000;
+    font-size: 19pt;
+    display: flex;
+    border-radius: 32px;
+    border: 1px solid rgba(0, 0, 0, 0.164);
+}
+
+.kub {
+    margin: 26px 28px 0 18px;
+}
+
+.Line {
+    width: 108px;
+    height: 29px;
+    margin: 45px 0 0 0;
+}
+
+.q {
+    display: flex;
+    position: absolute;
+    right: 636px;
+    top: 300px;
+}
+
+.e {
+    top: 650px;
+    right: 245px;
+}
+
+.versia {
+    width: 175px;
+    padding: 10px 0 0 32px;
+}
+
+.vizitka {
+    color: #fff;
+    width: 293px;
+    height: 294px;
+    border-radius: 32px;
+    background: rgb(78,108,255);
+    background: radial-gradient(circle, rgba(78,108,255,0.8631827731092436) 0%, rgba(0,0,0,1) 100%);
+}
+
+.leader {
+    margin: 20px 0 0 32px;
+    opacity: 75%;
+    font-size: 14pt;
+}
+
+.lu {
+    margin: 40px 0 30px 35px;
+}
+
+.Kupit {
+    display: flex;
+}
+
+.buyer {
+    margin: 48px 0 0 8px;
+    color: #9AAFDF;
+    font-size: 14pt;
+}
+
+.strelki {
+    position: absolute;
+    display: flex;
+    right: 128px;
+    top: 516px;
+}
+
+.kop {
+    position: absolute;
+    right: 96px;
+    top: 270px;
+}
+
+.Block_1 {
+    padding-bottom: 176px;
+}
+
+.about {
+    margin: 0 auto;
+    width: 1728px;
+    height: 702px;
+    border-radius: 96px;
+    background: rgb(78,108,255);
+    background: radial-gradient(circle, rgba(78,108,255,0.8631827731092436) 0%, rgba(0,0,0,1) 100%);
+}
+
+.h2 {
+    color: #fff;
+    font-size: 60pt;
+    padding: 110px 0 0 114px;
+}
+
+.plus {
+    margin: -274px 0 0 744px;
+}
+
+.binokol {
+    position: absolute;
+    top: 1360px;
+    right: 333px;
+}
+
+.club {
+    margin-top: 26px;
+    width: 300px;
+    color: #fff;
+    font-size: 19pt;
+}
+
+.span {
+    color: rgba(255, 255, 255, 0.452);
+}
+
+.work {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mes {
+    padding-left: 114px;
+}
+
+.bop {
+    padding-right: 114px;
+}
